@@ -1,0 +1,22 @@
+body
+{
+    background-color: blueviolet;
+    color: cyan;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: rgb(106, 45, 136);
+}
+#camera
+{
+    border: 2px dashed rgb(78, 148, 172);
+    width: 350px;
+    height: 300px;
+}
